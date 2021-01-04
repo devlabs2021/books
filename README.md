@@ -11,7 +11,7 @@
 В директории делаете файл с своим_ником.md (пример: nydevel.md).
 
 ### Про отзывы
-Желательно, чтобы вы прочли книгу полностью.    
+Желательно, чтобы вы прочли книгу полностью, но если вы решили делать заметки по ходу прочтения - это тоже ценно, вы сможете лучше запомнить что именно интересного прочли, а другие люди смогут об этом узнать.  
 Хотелось бы узнать какие ценные мысли вы почерпнули из нее, что в целом положительного и отрицательного о книге думаете и почему конкретно.  
 Если читали другое издание данной книги, в чем разница между ними?  
 
@@ -26,6 +26,6 @@ If it is not in the list, feel free to create a new directory in the format "Tit
 In the directory, make a file with your_name.md (example: nydevel.md).
 
 ### About reviews
-It is advisable that you read the entire book.
+It is advisable that you read the book in its entirety, but if you decide to take notes as you read it, this is also valuable, you will be able to better remember what interesting things you read, and other people will be able to find out about it.
 I would like to know what valuable thoughts you have learned from it, what you think about the book in general, positive and negative, and why specifically.
 If you have read another edition of this book, what is the difference between them?
