@@ -7,7 +7,7 @@
 
 ### Как работать с репозиторием:  
 Если книга уже есть в списке, размещайте свой комментарий в ее папке.  
-Если в списке ее нет, смело создавайте новую директорию в формате Язык издания (И язык вашего отзыва соответственно) -> "Название на языке оригинала (Автор) ГОД".
+Если в списке ее нет, смело создавайте новую директорию в формате: Язык вашего отзыва -> "Название книги (Автор) ГОД".
 В директории делаете файл с своим_ником.md (пример: nydevel.md).
 
 ### Про отзывы
@@ -22,7 +22,7 @@ Harmful advice from books is dangerous for the uninformed, and valuable advice w
 
 ### How to work with the repository:
 If the book is already on the list, place your comment in its folder.
-If it is not in the list, feel free to create a new directory in the format of the publication language (AND the language of your review, respectively) -> "Title in the original language (Author) YEAR".
+If it is not in the list, feel free to create a new directory in the format of: Language of your review -> "Title of book (Author) YEAR".
 In the directory, make a file with your_name.md (example: nydevel.md).
 
 ### About reviews
